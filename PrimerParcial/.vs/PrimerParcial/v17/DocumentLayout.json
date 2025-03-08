@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anarb\\OneDrive\\Escritorio\\Motores\\MotoresParcial1\\PrimerParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F32C8A-F5F1-B01C-25A1-122CFB989E19}|Assembly-CSharp.csproj|c:\\users\\anarb\\onedrive\\escritorio\\motores\\motoresparcial1\\primerparcial\\assets\\aurynsky\\dungeon pack\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F32C8A-F5F1-B01C-25A1-122CFB989E19}|Assembly-CSharp.csproj|solutionrelative:assets\\aurynsky\\dungeon pack\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\anarb\\OneDrive\\Escritorio\\Motores\\MotoresParcial1\\PrimerParcial\\Assets\\AurynSky\\Dungeon Pack\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\AurynSky\\Dungeon Pack\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\anarb\\OneDrive\\Escritorio\\Motores\\MotoresParcial1\\PrimerParcial\\Assets\\AurynSky\\Dungeon Pack\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\AurynSky\\Dungeon Pack\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:06:10Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
